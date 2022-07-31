@@ -4,7 +4,7 @@ title: Evaluating the TI LaunchPad
 description: The goal of this project is to use the TI LaunchPad for small projects and to compare its usability to the Microchip PIC32 Cerebot and decide which one is better for ECE 2534 (Microcontroller Interfacing), and why. Potential focus on SPI and I2C communication buses.
 date: 2000-01-08 09:00:00
 hero_image: /web/img/Evaluating-the-TI-LaunchPad/Hero.png
-image: /web/img/Evaluating-the-TI-LaunchPad/Hero.png
+# image /web/img/Evaluating-the-TI-LaunchPad/Hero.png
 hero_height: is-small
 hero_darken: true
 tags: project
