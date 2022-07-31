@@ -19,7 +19,7 @@ show_sidebar: false
 Randeep Baweja
 
 ## Repo Link
-<a class="button is-link" href="https://github.com/Amp-Lab-at-VT/Evaluating-the-TI-LaunchPad"" >Evaluating-the-TI-LaunchPad</a>
+<a class="button is-link" href="https://github.com/Amp-Lab-at-VT/Evaluating-the-TI-LaunchPad" >Evaluating-the-TI-LaunchPad</a>
 
 ## Photo
 
